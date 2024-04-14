@@ -1,0 +1,867 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: earna\n"
+"POT-Creation-Date: 2021-12-19 13:41+0530\n"
+"PO-Revision-Date: 2021-12-19 13:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: wordpressriver@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_attr_e;esc_attr__;esc_attr;__e;__;_e;esc_html_x;"
+"_x;esc_attr_x;__x;esc_html__;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:29
+msgid "Error Page"
+msgstr ""
+
+#: 404.php:31 archive.php:58 author.php:31 category.php:31 index.php:31
+#: page-templates/blog-2colum.php:15 page-templates/blog-3colum.php:15
+#: page-templates/blog-sidebar.php:15 page-templates/blog-standard.php:15
+#: page-templates/pages.php:17 page.php:31 search.php:31 single.php:31
+#: tag.php:31
+msgid "Home"
+msgstr ""
+
+#: 404.php:32
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:47
+msgid "404"
+msgstr ""
+
+#: 404.php:48
+msgid "SORRY PAGE WAS NOT FOUND!"
+msgstr ""
+
+#: 404.php:52 search.php:72 searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
+#: archive.php:31
+msgid "Daily Archives: "
+msgstr ""
+
+#: archive.php:34
+msgid "Monthly Archives: "
+msgstr ""
+
+#: archive.php:38
+msgid "Yearly Archives: "
+msgstr ""
+
+#: archive.php:52 archive.php:59
+msgid "Archives"
+msgstr ""
+
+#: author.php:29
+msgid "All posts by "
+msgstr ""
+
+#: author.php:32
+msgid "Author Archives"
+msgstr ""
+
+#: category.php:29
+msgid "Category Archives: "
+msgstr ""
+
+#: category.php:32
+msgid "Category Archives"
+msgstr ""
+
+#: comments.php:18
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:61
+msgid "Name"
+msgstr ""
+
+#: comments.php:67 inc/redux/config.php:104
+msgid "Email"
+msgstr ""
+
+#: comments.php:74
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:76
+msgid "Post Comment"
+msgstr ""
+
+#: footer-v1.php:22 header-pages.php:151 header-v1.php:151 header-v1.php:152
+#: header-v2.php:118 header-v2.php:143 header.php:89 inc/redux/config.php:349
+#: inc/redux/config.php:356
+msgid "Logo"
+msgstr ""
+
+#: footer-v1.php:93 footer.php:22
+msgid "Copyright &copy;  2021. Designed by"
+msgstr ""
+
+#: footer-v1.php:93 footer.php:22
+msgid "WordPressRiver"
+msgstr ""
+
+#: functions.php:33
+msgid "on"
+msgstr ""
+
+#: functions.php:271 functions.php:281
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:272 inc/redux/config.php:466
+msgid "Quick Links"
+msgstr ""
+
+#: functions.php:273
+msgid "Community Links"
+msgstr ""
+
+#: functions.php:274
+msgid "Footer Links"
+msgstr ""
+
+#: functions.php:344
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:346
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:395 functions.php:412
+msgid ""
+"Import process may take 2-5 minutes. If you facing any issues please contact "
+"our support."
+msgstr ""
+
+#: header-v2.php:88
+msgid "Search"
+msgstr ""
+
+#: inc/earna-class-wp-bootstrap-navwalker.php:222
+#: inc/earna-class-wp-bootstrap-navwalker.php:450
+msgid "Add a menu"
+msgstr ""
+
+#: inc/redux/config.php:22
+msgid "Earna Options"
+msgstr ""
+
+#: inc/redux/config.php:48
+msgid "Top Bar"
+msgstr ""
+
+#: inc/redux/config.php:49
+msgid "topbar"
+msgstr ""
+
+#: inc/redux/config.php:54 inc/redux/config.php:222 inc/redux/config.php:314
+#: inc/redux/config.php:455 inc/redux/config.php:482 inc/redux/config.php:509
+msgid "Heading"
+msgstr ""
+
+#: inc/redux/config.php:57 inc/redux/config.php:502 inc/redux/config.php:512
+msgid "Contact Info"
+msgstr ""
+
+#: inc/redux/config.php:62 inc/redux/config.php:517
+msgid "Section 1"
+msgstr ""
+
+#: inc/redux/config.php:69 inc/redux/config.php:101 inc/redux/config.php:133
+#: inc/redux/config.php:165 inc/redux/config.php:197 inc/redux/config.php:533
+msgid "Title"
+msgstr ""
+
+#: inc/redux/config.php:72
+msgid "Address"
+msgstr ""
+
+#: inc/redux/config.php:77 inc/redux/config.php:109 inc/redux/config.php:141
+#: inc/redux/config.php:173 inc/redux/config.php:237 inc/redux/config.php:261
+#: inc/redux/config.php:285 inc/redux/config.php:524 inc/redux/config.php:556
+#: inc/redux/config.php:589
+msgid "Icon Class"
+msgstr ""
+
+#: inc/redux/config.php:79 inc/redux/config.php:111 inc/redux/config.php:143
+#: inc/redux/config.php:175 inc/redux/config.php:239 inc/redux/config.php:263
+#: inc/redux/config.php:287 inc/redux/config.php:527 inc/redux/config.php:559
+#: inc/redux/config.php:592
+msgid "Paste Font-Aweosme Icon Class"
+msgstr ""
+
+#: inc/redux/config.php:81 inc/redux/config.php:528
+msgid "fas fa-map-marker-alt"
+msgstr ""
+
+#: inc/redux/config.php:86 inc/redux/config.php:118 inc/redux/config.php:150
+#: inc/redux/config.php:182 inc/redux/config.php:205 inc/redux/config.php:541
+#: inc/redux/config.php:565 inc/redux/config.php:573 inc/redux/config.php:599
+#: inc/redux/config.php:607
+msgid "Text"
+msgstr ""
+
+#: inc/redux/config.php:89
+msgid "California, TX 70240"
+msgstr ""
+
+#: inc/redux/config.php:94 inc/redux/config.php:549
+msgid "Section 2"
+msgstr ""
+
+#: inc/redux/config.php:113
+msgid "fas fa-envelope-open"
+msgstr ""
+
+#: inc/redux/config.php:121 inc/redux/config.php:576
+msgid "Info@gmail.com"
+msgstr ""
+
+#: inc/redux/config.php:126 inc/redux/config.php:582
+msgid "Section 3"
+msgstr ""
+
+#: inc/redux/config.php:136
+msgid "OFFICE HOURS"
+msgstr ""
+
+#: inc/redux/config.php:145
+msgid "fas fa-clock"
+msgstr ""
+
+#: inc/redux/config.php:153
+msgid "Office Hours: 8:00 AM – 7:45 PM"
+msgstr ""
+
+#: inc/redux/config.php:158
+msgid "Section 4"
+msgstr ""
+
+#: inc/redux/config.php:168
+msgid "Have any Question?"
+msgstr ""
+
+#: inc/redux/config.php:177 inc/redux/config.php:593
+msgid "fas fa-phone"
+msgstr ""
+
+#: inc/redux/config.php:185 inc/redux/config.php:208
+msgid "+123 456 7890"
+msgstr ""
+
+#: inc/redux/config.php:190
+msgid "Section 5"
+msgstr ""
+
+#: inc/redux/config.php:200
+msgid "CONTACT"
+msgstr ""
+
+#: inc/redux/config.php:215
+msgid "Social Icons"
+msgstr ""
+
+#: inc/redux/config.php:216
+msgid "socialicons"
+msgstr ""
+
+#: inc/redux/config.php:225
+msgid "Connect With Us"
+msgstr ""
+
+#: inc/redux/config.php:230
+msgid "Section One"
+msgstr ""
+
+#: inc/redux/config.php:241
+msgid "fab fa-facebook-f"
+msgstr ""
+
+#: inc/redux/config.php:246 inc/redux/config.php:270 inc/redux/config.php:294
+#: inc/redux/config.php:384
+msgid "Link"
+msgstr ""
+
+#: inc/redux/config.php:249 inc/redux/config.php:273 inc/redux/config.php:297
+#: inc/redux/config.php:387
+msgid "#"
+msgstr ""
+
+#: inc/redux/config.php:254
+msgid "Section Two"
+msgstr ""
+
+#: inc/redux/config.php:265
+msgid "fab fa-twitter"
+msgstr ""
+
+#: inc/redux/config.php:278
+msgid "Section Three"
+msgstr ""
+
+#: inc/redux/config.php:289
+msgid "fab fa-linkedin-in"
+msgstr ""
+
+#: inc/redux/config.php:307 inc/redux/config.php:317 inc/redux/config.php:325
+msgid "Additional Links"
+msgstr ""
+
+#: inc/redux/config.php:308
+msgid "additional"
+msgstr ""
+
+#: inc/redux/config.php:322 inc/redux/config.php:436 inc/redux/config.php:463
+#: inc/redux/config.php:490
+msgid "Menu Location"
+msgstr ""
+
+#: inc/redux/config.php:333
+msgid "Header"
+msgstr ""
+
+#: inc/redux/config.php:334
+msgid "header"
+msgstr ""
+
+#: inc/redux/config.php:339
+msgid "Favicon"
+msgstr ""
+
+#: inc/redux/config.php:366
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/redux/config.php:376 inc/redux/config.php:420
+msgid "Description"
+msgstr ""
+
+#: inc/redux/config.php:379
+msgid ""
+"Arrived compass prepare an on as. Reasonable particular on my it in "
+"sympathize. Size now easy eat hand how. Unwilling he departure elsewhere "
+"dejection at. Heart large seems may purse means few blind."
+msgstr ""
+
+#: inc/redux/config.php:394
+msgid "Footer"
+msgstr ""
+
+#: inc/redux/config.php:395
+msgid "footer"
+msgstr ""
+
+#: inc/redux/config.php:400
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux/config.php:410
+msgid "Footer Logo Version 2"
+msgstr ""
+
+#: inc/redux/config.php:423
+msgid ""
+"Excellence decisively nay man yet impression for contrasted remarkably. "
+"There spoke happy for you are out. Fertile how old address did showing."
+msgstr ""
+
+#: inc/redux/config.php:428
+msgid "CopyRight Text"
+msgstr ""
+
+#: inc/redux/config.php:431
+msgid "&copy; Copyright 2021. earna WordPres Theme By WordPressRiver"
+msgstr ""
+
+#: inc/redux/config.php:439
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/redux/config.php:448
+msgid "Footer Links 1"
+msgstr ""
+
+#: inc/redux/config.php:449
+msgid "companylinkshead"
+msgstr ""
+
+#: inc/redux/config.php:458
+msgid "Quick Link"
+msgstr ""
+
+#: inc/redux/config.php:475
+msgid "Footer Links 2"
+msgstr ""
+
+#: inc/redux/config.php:476
+msgid "solutionlinkshead"
+msgstr ""
+
+#: inc/redux/config.php:485 inc/redux/config.php:493
+msgid "Community"
+msgstr ""
+
+#: inc/redux/config.php:503
+msgid "contactinfofooter"
+msgstr ""
+
+#: inc/redux/config.php:536
+msgid "Address:"
+msgstr ""
+
+#: inc/redux/config.php:544
+msgid "5919 Trussville Crossings Pkwy, Birmingham"
+msgstr ""
+
+#: inc/redux/config.php:560
+msgid "fas fa-envelope"
+msgstr ""
+
+#: inc/redux/config.php:568
+msgid "Email:"
+msgstr ""
+
+#: inc/redux/config.php:602
+msgid "Phone:"
+msgstr ""
+
+#: inc/redux/config.php:610
+msgid "+123-456-7890"
+msgstr ""
+
+#: index.php:29 index.php:32 page-templates/blog-2colum.php:16
+#: page-templates/blog-3colum.php:16 page-templates/blog-sidebar.php:16
+#: page-templates/blog-standard.php:16
+msgid "Blog"
+msgstr ""
+
+#: page-templates/blog-2colum.php:51 page-templates/blog-3colum.php:51
+#: template-parts/content-page.php:23
+msgid "By"
+msgstr ""
+
+#: page-templates/blog-2colum.php:66 page-templates/blog-3colum.php:66
+#: template-parts/content.php:40
+msgid "Read More"
+msgstr ""
+
+#: page-templates/pages.php:18 page.php:32
+msgid "Pages"
+msgstr ""
+
+#: search.php:29
+msgid "Search Results For : "
+msgstr ""
+
+#: search.php:32
+msgid "Search Results"
+msgstr ""
+
+#: search.php:65
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:68
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:32
+msgid "Blog Posts"
+msgstr ""
+
+#: tag.php:29
+msgid "Tag Archives: "
+msgstr ""
+
+#: tag.php:32
+msgid "Tag Archives"
+msgstr ""
+
+#: template-parts/content-page.php:35
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-page.php:50
+msgid "Prev Post"
+msgstr ""
+
+#: template-parts/content-page.php:58
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content.php:28
+msgid "By "
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:393
+#: tgm-plugin/class-tgm-plugin-activation.php:912
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+#: tgm-plugin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:394
+#: tgm-plugin/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1206
+#: tgm-plugin/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:69
+msgid "One Click Demo Import"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:83
+msgid "Redux Framework"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:89
+msgid "Safe SVG"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:95
+msgid "Earna Extensions"
+msgstr ""
