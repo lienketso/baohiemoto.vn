@@ -16,10 +16,10 @@ var ctx = document.getElementById("lineChart");
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ["2002", "2003", "2007", "2012", "2016", "2021"],
+        labels: ["2019", "2020", "2021", "2022", "2023", "2024"],
         datasets: [{
-            label: 'Business Growth',
-            data: [3, 5, 12, 8, 11, 28],
+            label: 'Tốc độ tăng trưởng',
+            data: [10, 20, 30, 50, 80, 100],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.5)',
                 'rgba(54, 162, 235, 0.5)',

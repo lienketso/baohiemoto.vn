@@ -8,3 +8,30 @@ Template: earna
 */
 
 @charset "UTF-8";
+/* CSS cho container */
+.youtube-video-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}
+
+/* CSS cho video */
+.youtube-video {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    overflow: hidden;
+    background: #f9f9f9;
+}
+
+.youtube-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.video-home h4{
+	text-align: center;
+	font-size: 36px;
+	padding-bottom: 30px;
+}
